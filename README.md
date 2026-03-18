@@ -135,6 +135,7 @@ npx cypress open
 
 ### 4. Executar testes (modo headless)
 npx cypress run
+```
 
 ⚠️ Observações
 

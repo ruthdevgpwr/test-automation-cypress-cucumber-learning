@@ -54,6 +54,7 @@ cypress-bdd-cucumber/
 ├── cypress.config.js
 ├── package.json
 └── package-lock.json
+```
 
 ## Arquitetura dos testes
 
